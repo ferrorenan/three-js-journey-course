@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fda964e3-ef30-4d03-9806-c6e28e317a43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../00-practice/static/Greeble_Techno_002_ambientOcclusion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-practice/static/Greeble_Techno_002_height.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-practice/static/Greeble_Techno_002_metallic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-practice/static/Greeble_Techno_002_normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-practice/static/Greeble_Techno_002_roughness.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-practice/static/basecolor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-practice/static/lavaColor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-practice/src/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../00-practice/src/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1odS2vdzysJe6F1VOpwofwxmx60" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fda964e3-ef30-4d03-9806-c6e28e317a43" name="Default Changelist" comment="" />
+      <created>1613614771486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613614771486</updated>
+      <workItem from="1613614772832" duration="1124000" />
+      <workItem from="1613676125627" duration="54000" />
+      <workItem from="1613700646472" duration="59000" />
+      <workItem from="1614276779760" duration="1402000" />
+      <workItem from="1614280710420" duration="1839000" />
+      <workItem from="1614297711296" duration="1783000" />
+      <workItem from="1614299989506" duration="86000" />
+      <workItem from="1614348081966" duration="388000" />
+      <workItem from="1614361405697" duration="1930000" />
+      <workItem from="1614605216923" duration="94000" />
+      <workItem from="1614647349708" duration="1789000" />
+      <workItem from="1614684693969" duration="1704000" />
+      <workItem from="1614729113358" duration="2414000" />
+      <workItem from="1614815606830" duration="2956000" />
+      <workItem from="1614824828381" duration="7000" />
+      <workItem from="1614870973602" duration="2715000" />
+      <workItem from="1614901813833" duration="65000" />
+      <workItem from="1614976769079" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
